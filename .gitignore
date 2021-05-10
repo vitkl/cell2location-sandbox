@@ -1,5 +1,6 @@
 # project-specific
 *.h5ad
+notebooks/scvi_real_data/data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
